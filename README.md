@@ -45,4 +45,4 @@ Hi, I'm Marvid Pisawis, an Oracle EBS Support Specialist with a strong backgroun
 - **LinkedIn:** https://www.linkedin.com/in/marvid-pisawis-87402924a/
 - **Email:** iammarvidpisawis@gmail.com
 
-Feel free to explore the details of each section, and if there's any confidential information, replace it with more general descriptions that still convey your experience and expertise. Remember, the goal is to showcase your skills and contributions without compromising sensitive information.
+
