@@ -4,7 +4,7 @@ Welcome to my SQL portfolio! I specialize in Oracle E-Business Suite support, re
 
 ## Introduction
 
-Hi, I'm MArvid Pisawis, an Oracle EBS Support Specialist with a strong background in troubleshooting and resolving system issues. I also take initiative in driving web development projects and creating programs to enhance departmental processes.
+Hi, I'm Marvid Pisawis, an Oracle EBS Support Specialist with a strong background in troubleshooting and resolving system issues. I also take initiative in driving web development projects and creating programs to enhance departmental processes.
 
 ## Oracle E-Business Suite Support
 
