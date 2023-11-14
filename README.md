@@ -10,7 +10,7 @@ Hi, I'm Marvid Pisawis, an Oracle EBS Support Specialist with a strong backgroun
 
 ### Bug Resolution and Error Handling
 
-- **Experience:** 1 year experiences as Oracle System Support in Financials(AR,AP,GL,IA,BIR) and HR system(LASTPAY, PAYROLL)
+- **Experience:** I have one year of experience as an Oracle System Support professional, specializing in Financials (AR, AP, GL, IA, BIR) and HR systems (LASTPAY, PAYROLL).
 - **Skills:** Troubleshooting, Bug Resolution, Error Handling, conducting UAT, Documentations, process improvements, resolving and investigating data using SQL.
 - **Projects:** Initiated Projects for Inventory Accounting Data Downloader and Web Applications for BIR EIS
 
