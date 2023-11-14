@@ -38,6 +38,7 @@ Hi, I'm Marvid Pisawis, an Oracle EBS Support Specialist with a strong backgroun
 - C# (APS.Net)
 - Experience in using SQL developer and Toad Clients
   
+  
 
 ## Contact Information
 
